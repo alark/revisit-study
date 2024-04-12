@@ -16,7 +16,7 @@
     },
     "uiConfig": {
         "contactEmail": "test@test.com",
-        "helpTextPath": "basic-questionnaire-study/assets/help.md",
+        "helpTextPath": "basic-study/assets/help.md",
         "logoPath": "revisitAssets/revisitLogoSquare.svg",
         "withProgressBar": true,
         "autoDownloadStudy": false,
@@ -25,7 +25,7 @@
     "components": {
         "introduction": {
             "type": "markdown",
-            "path": "basic-questionnaire-study/assets/introduction.md",
+            "path": "basic-study/assets/introduction.md",
             "response": []
         },
         "first-question-set": {

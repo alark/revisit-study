@@ -49,6 +49,7 @@
     "react-router-dom": "^6.10.0",
     "react-vega": "^7.6.0",
     "rehype-raw": "^7.0.0",
+    "serve": "^14.2.1",
     "ts-json-schema-generator": "^1.4.1",
     "typedoc": "^0.25.4",
     "typedoc-plugin-frontmatter": "^0.0.2",
